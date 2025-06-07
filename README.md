@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./A_banner-style_digital_illustration_showcases_Moha.png" alt="Cyber Banner" style="width:100%; border-radius: 8px;">
+  <img src="./noxe77_cyberpunk_banner.gif" alt="Animated Cyberpunk Banner" style="width:100%; border-radius: 8px;">
 </p>
+
 
 ---
 
@@ -73,8 +74,8 @@ Salut ! Je suis Mohamed, passionné de **cybersécurité offensive** 🕵️, de
 
 ### 📫 Me contacter
 
-- 📧 Email : mohamed.ouahab@email.com  
-- 🔗 LinkedIn : [linkedin.com/in/tonprofil](#)  
+- 📧 Email : mohamed.ouahab1999@email.com  
+- 🔗 LinkedIn : [https://www.linkedin.com/in/mohamed-ouahab-91b215336/](#)  
 - 💻 GitHub : [github.com/moouahab](https://github.com/moouahab)  
 
 ---
