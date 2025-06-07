@@ -53,12 +53,15 @@ Salut ! Je suis Mohamed, un passionné de **cybersécurité offensive** 🕵️,
 
 ---
 
-### ✨ Visuals & ambiance
+### ✨ Cyber Ambiance
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/L0NQw8V8fzo3bczgkK/giphy.gif" width="360" alt="Hacking in terminal">
+  <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYG0g/giphy.gif" width="360" alt="Cyberpunk eye scan">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVzNmpyMHJ4NTRiZm1lYmgyaXhiNnNwZHBncm5yNDF0enAwd29sOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dwPj5fzy3oQ5O/giphy.gif" width="600" alt="Cyber terminal scan">
 </p>
 
 ---
