@@ -48,7 +48,7 @@ Salut ! Je suis Mohamed, passionné de **cybersécurité offensive** 🕵️, de
 ### 🧠 Vision technique
 
 <p align="center">
-  <img src="./Capture d'écran 2025-06-07 171615.png" alt="Cyber Knowledge Map" width="85%" style="border-radius: 10px;">
+  <img src="./holygraphe.png" alt="Cyber Knowledge Map" width="85%" style="border-radius: 10px;">
 </p>
 
 ---
