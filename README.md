@@ -49,6 +49,5 @@
 
 ### ✨ Visuels cyberpunk ?
 Tu peux ajouter des gifs comme ceux-ci :
-```html
 <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="400">
 <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="400">
