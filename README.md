@@ -14,10 +14,10 @@
 
 ### 👾 Qui suis-je ?
 
-Salut ! Je suis Mohamed, un passionné de **cybersécurité offensive** 🕵️, de **systèmes Unix/Linux** 🐧 et de **programmation bas niveau** 💻.  
-🎓 Formé à l’école 42, je développe des outils et projets où la sécurité, l'efficacité et la maîtrise des systèmes sont prioritaires.
+Salut ! Je suis Mohamed, passionné de **cybersécurité offensive** 🕵️, de **systèmes Unix/Linux** 🐧 et de **programmation bas niveau** 💻.  
+🎓 Formé à l’école 42, je développe des outils où la sécurité, l'efficacité et la maîtrise technique sont prioritaires.
 
-🎯 Je recherche un stage en cybersécurité (Pentest, Red Team, CTF, Reverse Engineering, etc.).
+🎯 Actuellement à la recherche d’un **stage en cybersécurité** (Pentest, Red Team, CTF, Reverse Engineering...).
 
 ---
 
@@ -45,33 +45,29 @@ Salut ! Je suis Mohamed, un passionné de **cybersécurité offensive** 🕵️,
 
 ---
 
-### 🧠 Carte mentale : univers technique
+### 🧠 Vision technique
 
 <p align="center">
-  <img src="./Capture d'écran 2025-06-07 192213.png" alt="Knowledge Map" width="80%" style="border-radius: 10px;">
+  <img src="./Capture d'écran 2025-06-07 171615.png" alt="Cyber Knowledge Map" width="85%" style="border-radius: 10px;">
 </p>
 
 ---
 
-### ✨ Cyber Ambiance
+### ✨ Ambiance & terminal vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L0NQw8V8fzo3bczgkK/giphy.gif" width="360" alt="Hacking in terminal">
-  <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYG0g/giphy.gif" width="360" alt="Cyberpunk eye scan">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVzNmpyMHJ4NTRiZm1lYmgyaXhiNnNwZHBncm5yNDF0enAwd29sOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dwPj5fzy3oQ5O/giphy.gif" width="600" alt="Cyber terminal scan">
+  <img src="https://media.giphy.com/media/L0NQw8V8fzo3bczgkK/giphy.gif" width="360">
+  <img src="https://media.giphy.com/media/3ov9kbuQg8ayvoYG0g/giphy.gif" width="360">
 </p>
 
 ---
 
 ### 🚀 Objectif 2025
 
-- ✅ Finir les projets système de l’école 42  
-- ✅ Développer des outils d’attaque/défense (TOTP, bruteforce, etc.)  
+- ✅ Finaliser les projets système de 42  
+- ✅ Développer des outils de sécurité (TOTP, bruteforce, etc.)  
 - ⏳ Contribuer à un projet open source en cybersécurité  
-- 🎯 Obtenir un stage en Red Team / Pentest  
+- 🎯 Intégrer une équipe Red Team / Pentest  
 
 ---
 
