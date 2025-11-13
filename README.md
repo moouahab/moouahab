@@ -8,7 +8,7 @@
 
 <h1 align="center">🧠 Mohamed Ouahab aka <span style="color:#00ffe1;">noxe77</span></h1>
 <p align="center">
-  <b>42 Student | Cybersecurity Enthusiast | C & Python Addict</b>  
+  <b>42 Student | Cybersecurity Enthusiast | Reverse Engineering & System Intrusion</b>
 </p>
 
 ---
