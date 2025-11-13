@@ -38,11 +38,16 @@ Salut ! Je suis Mohamed, passionné de **cybersécurité offensive** 🕵️, de
 
 | 🛠️ Projet | 📘 Description |
 |----------|----------------|
-| [**ft_otp**](https://github.com/moouahab/ft_otp) | Générateur TOTP/HOTP en Python avec chiffrement Fernet |
-| [**minishell**](https://github.com/moouahab/minishell) | Shell Unix minimaliste en C (fork, exec, signaux, parsing) |
-| [**IRC_server_42**](https://github.com/moouahab/IRC_server_42) | Serveur IRC codé en C++ (gestion des sockets, utilisateurs, messages) |
-| [**get_next_line**](https://github.com/moouahab/get_next_line) | Lecture ligne par ligne depuis un `fd`, gestion mémoire sécurisée |
-| [**push_swap**](https://github.com/moouahab/push_swap) | Tri d'entiers avec algorithmes optimisés pour le nombre de coups |
+| [**OverRide CTF (SnowCrash/Exploit ELF)**](https://github.com/moouahab/OverRide) | Série complète d'exploitations binaires (i386) : buffer overflow, format string, ret2libc, GOT overwrite, ROP. Analyse GDB/objdump + write-ups détaillés. |
+| [**RainFall CTF**](https://github.com/moouahab/Rainfall) | Exploitation avancée de binaires 32 bits : stack overflow, integer bug, vtable hijack. Méthodologie complète, preuves d’exploitation, défense et mitigation. |
+| [**ft_malcom (ARP Spoofing)**](https://github.com/moouahab/ft_malcolm) | Outil MITM en C : construction manuelle de paquets Ethernet/ARP, ARP poisoning, sniffing et redirection du trafic. Analyse réseau bas-niveau. |
+| [**ft_ping**](https://github.com/moouahab/ft_ping) | Reproduction du programme `ping` en C : ICMP Echo, checksum, TTL, RTT, parsing d’options, gestion de sockets RAW. |
+| [**ft_otp**](https://github.com/moouahab/ft_otp) | Générateur TOTP/HOTP en Python avec chiffrement Fernet conforme RFC 4226/6238. |
+| [**minishell**](https://github.com/moouahab/minishell) | Shell Unix minimaliste en C (fork, execve, pipes, signaux, parsing). |
+| [**IRC_server_42**](https://github.com/moouahab/IRC_server_42) | Serveur IRC en C++ : sockets, gestion de multiples clients, multiplexage. |
+| [**get_next_line**](https://github.com/moouahab/get_next_line) | Lecture ligne par ligne depuis un `fd` avec gestion mémoire sécurisée. |
+| [**push_swap**](https://github.com/moouahab/push_swap) | Tri d'entiers avec algorithmes optimisés (greedy, quicksort adapté). |
+|
 
 ---
 
