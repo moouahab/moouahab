@@ -45,8 +45,6 @@ Salut ! Je suis Mohamed, passionné de **cybersécurité offensive** 🕵️, de
 | [**ft_otp**](https://github.com/moouahab/ft_otp) | Générateur TOTP/HOTP en Python avec chiffrement Fernet conforme RFC 4226/6238. |
 | [**minishell**](https://github.com/moouahab/minishell) | Shell Unix minimaliste en C (fork, execve, pipes, signaux, parsing). |
 | [**IRC_server_42**](https://github.com/moouahab/IRC_server_42) | Serveur IRC en C++ : sockets, gestion de multiples clients, multiplexage. |
-| [**get_next_line**](https://github.com/moouahab/get_next_line) | Lecture ligne par ligne depuis un `fd` avec gestion mémoire sécurisée. |
-| [**push_swap**](https://github.com/moouahab/push_swap) | Tri d'entiers avec algorithmes optimisés (greedy, quicksort adapté). |
 |
 
 ---
